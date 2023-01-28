@@ -34,7 +34,7 @@ while option != 0:
         myOrder.print_order()
     if option == 1:
         myOrder.add_lemonade()
-    if option == 7:
-         myOrder.add_chicken_strips()
     if option == 2:
         myOrder.add_coffee()
+    if option == 7:
+         myOrder.add_chicken_strips()
