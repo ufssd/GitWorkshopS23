@@ -24,6 +24,7 @@ while option != 0:
     print('14. Frosted Lemonade')
     print('15. Cookie')
     print('16. Chicken Sandwich')
+    print('17. Ice Cream')
     print('0. Done')
     print('Select an option: ')
 
