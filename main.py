@@ -24,6 +24,7 @@ while option != 0:
     print('14. Frosted Lemonade')
     print('15. Cookie')
     print('16. Chicken Sandwich')
+    print('17. Ice Cream')
     print('0. Done')
     print('Select an option: ')
 
@@ -35,3 +36,5 @@ while option != 0:
         myOrder.add_lemonade()
     if option == 2:
         myOrder.add_coffee()
+    if option == 7:
+         myOrder.add_chicken_strips()
