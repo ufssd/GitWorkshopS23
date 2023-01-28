@@ -34,3 +34,5 @@ while option != 0:
         myOrder.print_order()
     if option == 1:
         myOrder.add_lemonade()
+    if option == 2:
+        myOrder.add_coffee()
